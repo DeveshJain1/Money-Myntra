@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.0"
+  },
+  "name": "money_myntra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deveshjain1"
+  },
+  "author": "Devesh Jain",
+  "license": "ISC",
+  "description": ""
+}
